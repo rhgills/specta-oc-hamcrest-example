@@ -12,8 +12,7 @@ SharedExampleGroupsBegin(ExampleGroup)
 
 sharedExamples(@"a group", ^(NSDictionary *data) {
     
-    __block id object;
-    
+//    __block id object;
 //    beforeEach(^{
 //        object = [data objectForKey:@"object"];
 //    });
