@@ -4,25 +4,30 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Specta Crasher.xcscheme</key>
+		<key>Pods-Tests.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>4B9DDA01176FAC07006CADC4</key>
+		<key>109A553ADCEA4F1CBB20C39B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4B9DDA1C176FAC07006CADC4</key>
+		<key>613198084018468EAF2981D4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4B9DDA37176FAC26006CADC4</key>
+		<key>6A1726EC87BB4871B47D8CE6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BB75D3C4CC524A6AA2150E6A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
