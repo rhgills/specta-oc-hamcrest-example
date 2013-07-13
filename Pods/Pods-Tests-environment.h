@@ -6,6 +6,12 @@
 // project.
 
 
+// OCHamcrest
+#define COCOAPODS_POD_AVAILABLE_OCHamcrest
+#define COCOAPODS_VERSION_MAJOR_OCHamcrest 2
+#define COCOAPODS_VERSION_MINOR_OCHamcrest 1
+#define COCOAPODS_VERSION_PATCH_OCHamcrest 0
+
 // Specta
 #define COCOAPODS_POD_AVAILABLE_Specta
 #define COCOAPODS_VERSION_MAJOR_Specta 0

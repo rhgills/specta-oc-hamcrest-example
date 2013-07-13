@@ -7,20 +7,24 @@
 //
 
 #import <Specta.h>
+#define HC_SHORTHAND
+#import <OCHamcrest.h>
 
 SharedExampleGroupsBegin(ExampleGroup)
 
 sharedExamples(@"a group", ^(NSDictionary *data) {
     
-//    __block id object;
-//    beforeEach(^{
-//        object = [data objectForKey:@"object"];
-//    });
+    __block id object;
+    beforeEach(^{
+        object = [data objectForKey:@"object"];
+    });
     
-    // if the above block is uncommented, there is no crash.
+    it(@"should succeed with OCHamcrest inside an example group", ^{
+        assertThatBool(NO, equalToBool(NO));
+    });
     
-    it(@"should not crash", ^{
-        NSLog(@"you won't get here!");
+    it(@"should fail with OCHamcrest inside an example group", ^{
+        assertThatBool(NO, equalToBool(YES));
     });
 });
 
@@ -32,6 +36,14 @@ SpecBegin(Spec)
 describe(@"a spec", ^{
     itShouldBehaveLike(@"a group", ^{
         return @{@"object" : [[NSObject alloc] init] };
+    });
+    
+    it(@"should succeed with OCHamcrest", ^{
+        assertThatBool(NO, equalToBool(NO));
+    });
+    
+    it(@"should fail with OCHamcrest", ^{
+        assertThatBool(NO, equalToBool(YES));
     });
 });
 

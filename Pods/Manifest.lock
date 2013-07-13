@@ -1,10 +1,13 @@
 PODS:
+  - OCHamcrest (2.1.0)
   - Specta (0.1.10)
 
 DEPENDENCIES:
+  - OCHamcrest
   - Specta (= 0.1.10)
 
 SPEC CHECKSUMS:
+  OCHamcrest: 96f5cb58fa0fd4b3609d37fe21e5246b259bba2a
   Specta: 27e3e2801be07596d49e04b5a561fb1a8ecc21d1
 
 COCOAPODS: 0.20.2
