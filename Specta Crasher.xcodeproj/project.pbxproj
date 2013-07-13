@@ -44,7 +44,6 @@
 		4B9DDA14176FAC07006CADC4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		4B9DDA15176FAC07006CADC4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		4B9DDA17176FAC07006CADC4 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		4B9DDA1E176FAC07006CADC4 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		4B9DDA38176FAC26006CADC4 /* Tests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Tests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B9DDA39176FAC26006CADC4 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
 		4B9DDA3F176FAC26006CADC4 /* Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Tests-Info.plist"; sourceTree = "<group>"; };
@@ -106,7 +105,6 @@
 				4B9DDA05176FAC07006CADC4 /* Foundation.framework */,
 				4B9DDA07176FAC07006CADC4 /* CoreGraphics.framework */,
 				4B9DDA09176FAC07006CADC4 /* UIKit.framework */,
-				4B9DDA1E176FAC07006CADC4 /* XCTest.framework */,
 				4B9DDA39176FAC26006CADC4 /* SenTestingKit.framework */,
 				DB147D6D700E4518B4460CED /* libPods-Tests.a */,
 			);

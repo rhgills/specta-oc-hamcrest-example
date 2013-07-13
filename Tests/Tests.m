@@ -18,14 +18,10 @@ sharedExamples(@"a group", ^(NSDictionary *data) {
 //        object = [data objectForKey:@"object"];
 //    });
     
+    // if the above block is uncommented, there is no crash.
     
     it(@"should not crash", ^{
         NSLog(@"you won't get here!");
-//        NSLog(@"object is %@", object);
-    });
-    
-    it(@"should be a different object", ^{
-//         NSLog(@"object is %@", [data objectForKey:@"object"]);
     });
 });
 

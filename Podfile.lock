@@ -1,10 +1,10 @@
 PODS:
-  - Specta (0.1.8)
+  - Specta (0.1.10)
 
 DEPENDENCIES:
-  - Specta
+  - Specta (= 0.1.10)
 
 SPEC CHECKSUMS:
-  Specta: 8a215d36842f2d29e888786937d1bf7f8725f780
+  Specta: 27e3e2801be07596d49e04b5a561fb1a8ecc21d1
 
 COCOAPODS: 0.20.2

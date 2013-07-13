@@ -10,43 +10,42 @@
 	<string>46</string>
 	<key>objects</key>
 	<dict>
-		<key>03809F0D23C14E99A7823B1B</key>
+		<key>0A6FF932FEC946DD885D6DC4</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>Pods-Tests-resources.sh</string>
+			<string>SPTReporter.m</string>
 			<key>path</key>
-			<string>Pods-Tests-resources.sh</string>
+			<string>Specta/src/SPTReporter.m</string>
 			<key>sourceTree</key>
 			<string>SOURCE_ROOT</string>
 		</dict>
-		<key>064D68383A7E4ACBB9011F57</key>
+		<key>0DE37472A1194665A514A87D</key>
 		<dict>
-			<key>fileRef</key>
-			<string>C16CACDF2F2445D29162AD84</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict/>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>Pods-Tests-dummy.m</string>
+			<key>path</key>
+			<string>Pods-Tests-dummy.m</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
 		</dict>
-		<key>0C77C5B2FF4A4CA58BCAD8F9</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A4CF1A8CFACF4931ABFB1696</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict/>
-		</dict>
-		<key>0E2599E6037C4CB7A42F41F5</key>
+		<key>0E1B091563C347B9A54BED13</key>
 		<dict>
 			<key>buildConfigurations</key>
 			<array>
-				<string>938A8337DE1E4014B5C862E0</string>
-				<string>DFB7C9906F0440A9A4FA04E8</string>
+				<string>280A5115F279403F8411169C</string>
+				<string>A375EE24C2B94851B1358DBA</string>
 			</array>
 			<key>defaultConfigurationIsVisible</key>
 			<string>0</string>
@@ -55,219 +54,7 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>0E8F8CD56EAF45D68C7C4FDB</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>Pods-Tests-acknowledgements.markdown</string>
-			<key>path</key>
-			<string>Pods-Tests-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-		</dict>
-		<key>138BCF72A49F41279DAD0963</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>SPTSenTestCase.m</string>
-			<key>path</key>
-			<string>Specta/src/SPTSenTestCase.m</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-		</dict>
-		<key>16B24F44394A4E49BBEA10E2</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>B60D99F72AE5429FA3FED903</string>
-				<string>6FC1909F736848D3A171A90B</string>
-				<string>33205BEC2F444158B914429B</string>
-				<string>A8B9E4C2A8E4425DBCF1ABCC</string>
-				<string>DFF30D92360C41F9B420F216</string>
-				<string>A4CF1A8CFACF4931ABFB1696</string>
-				<string>C34DAE5CE2EC4EB7ACECAA9B</string>
-				<string>846D9310287244DA879DAFCF</string>
-				<string>87132CB9177249F28F209149</string>
-				<string>3C88F52AA1A2476B89960117</string>
-				<string>9184A8CB131E40028174AE77</string>
-				<string>138BCF72A49F41279DAD0963</string>
-				<string>AD9C75515FBD48329B63D0E5</string>
-				<string>9206E3C432E54CDBBD6DE9B1</string>
-				<string>C16CACDF2F2445D29162AD84</string>
-				<string>5A59D7E7BEAD4520AEF801CB</string>
-				<string>F89E637938B442BFA38C1034</string>
-				<string>6F7A14D6EC4E41EAA8F4874C</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Specta</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>19E43E51DF20452AA3237FF0</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>FD331769139C46B8993549BE</string>
-				<string>5BD40B62A71F415CB0F928B1</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2963CF9524AB489E9D1E1A59</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>6.1</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>2E07C280812943738DD560A5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>Pods-Tests-dummy.m</string>
-			<key>path</key>
-			<string>Pods-Tests-dummy.m</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-		</dict>
-		<key>33205BEC2F444158B914429B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>SpectaSupport.h</string>
-			<key>path</key>
-			<string>Specta/src/SpectaSupport.h</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-		</dict>
-		<key>33CDA52794D34A519D80E173</key>
-		<dict>
-			<key>fileRef</key>
-			<string>C34DAE5CE2EC4EB7ACECAA9B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict/>
-		</dict>
-		<key>35FD60E76A3547DA831B27E1</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>Podfile</string>
-			<key>path</key>
-			<string>../Podfile</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-			<key>xcLanguageSpecificationIdentifier</key>
-			<string>xcode.lang.ruby</string>
-		</dict>
-		<key>3C88F52AA1A2476B89960117</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>SPTExampleGroup.m</string>
-			<key>path</key>
-			<string>Specta/src/SPTExampleGroup.m</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-		</dict>
-		<key>458AF8586D3A413AA7C6B152</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>EF6152E6AD4D4DC9B7795380</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>4ABC0FC4DAE2488D856F3D8E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>DFF30D92360C41F9B420F216</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict/>
-		</dict>
-		<key>55690AF0D71F48B6B47621EA</key>
-		<dict>
-			<key>fileRef</key>
-			<string>846D9310287244DA879DAFCF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict/>
-		</dict>
-		<key>596D7E2B7F3042E48CBD5EB6</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>16B24F44394A4E49BBEA10E2</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5A59D7E7BEAD4520AEF801CB</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>SPTSharedExampleGroups.m</string>
-			<key>path</key>
-			<string>Specta/src/SPTSharedExampleGroups.m</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-		</dict>
-		<key>5BD40B62A71F415CB0F928B1</key>
+		<key>0ED48B1B36B34DBFA9B95D77</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -276,189 +63,53 @@
 			<key>lastKnownFileType</key>
 			<string>wrapper.framework</string>
 			<key>name</key>
-			<string>SenTestingKit.framework</string>
+			<string>Foundation.framework</string>
 			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/SenTestingKit.framework</string>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework</string>
 			<key>sourceTree</key>
 			<string>DEVELOPER_DIR</string>
 		</dict>
-		<key>5F3B8F80D7EA480784C0564C</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>19E43E51DF20452AA3237FF0</string>
-				<string>596D7E2B7F3042E48CBD5EB6</string>
-				<string>BFAD45E984EE4263AD3E62CB</string>
-				<string>FB91C62468534F9DB554EF22</string>
-				<string>35FD60E76A3547DA831B27E1</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>64CE3B0F10BA452892EF8271</key>
+		<key>11B97A4BB8244B6CA7B31575</key>
 		<dict>
 			<key>fileRef</key>
-			<string>A8B9E4C2A8E4425DBCF1ABCC</string>
+			<string>B814004E0033430BBD893BB1</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
 			<dict/>
 		</dict>
-		<key>6F7A14D6EC4E41EAA8F4874C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>SPTSpec.m</string>
-			<key>path</key>
-			<string>Specta/src/SPTSpec.m</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-		</dict>
-		<key>6FC1909F736848D3A171A90B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>Specta.m</string>
-			<key>path</key>
-			<string>Specta/src/Specta.m</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-		</dict>
-		<key>7031B6B4C93F48DB9679190F</key>
+		<key>12B494F757A34B6CBBC79DDF</key>
 		<dict>
 			<key>fileRef</key>
-			<string>5A59D7E7BEAD4520AEF801CB</string>
+			<string>0ED48B1B36B34DBFA9B95D77</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
 			<dict/>
 		</dict>
-		<key>790CE550B58247ADAC3D5FFA</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>CE2C237D0C994BBB8655C001</string>
-				<string>2963CF9524AB489E9D1E1A59</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>793661DC08B84EFB90ABB53C</key>
+		<key>1603042A89C444698F3E6243</key>
 		<dict>
 			<key>fileRef</key>
-			<string>3C88F52AA1A2476B89960117</string>
+			<string>28A6532C86DB4666A0ECAB57</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
 			<dict/>
 		</dict>
-		<key>8158631344BE4271BB80C973</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6FC1909F736848D3A171A90B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict/>
-		</dict>
-		<key>846D9310287244DA879DAFCF</key>
+		<key>17CA387988E74761B1A7935E</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>SPTExample.m</string>
+			<string>Pods-Tests-prefix.pch</string>
 			<key>path</key>
-			<string>Specta/src/SPTExample.m</string>
+			<string>Pods-Tests-prefix.pch</string>
 			<key>sourceTree</key>
 			<string>SOURCE_ROOT</string>
 		</dict>
-		<key>87132CB9177249F28F209149</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>SPTExampleGroup.h</string>
-			<key>path</key>
-			<string>Specta/src/SPTExampleGroup.h</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-		</dict>
-		<key>88EDE4A1895F435D9F8844B3</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastUpgradeCheck</key>
-				<string>0450</string>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>790CE550B58247ADAC3D5FFA</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-			</array>
-			<key>mainGroup</key>
-			<string>5F3B8F80D7EA480784C0564C</string>
-			<key>productRefGroup</key>
-			<string>BFAD45E984EE4263AD3E62CB</string>
-			<key>projectReferences</key>
-			<array/>
-			<key>targets</key>
-			<array>
-				<string>BB75D3C4CC524A6AA2150E6A</string>
-			</array>
-		</dict>
-		<key>8DEC337C2B2749DABE32B5E8</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>9B4BA7E348D14464B0DE94BB</string>
-				<string>A5400CBBDC624A519DC7651B</string>
-				<string>FCB2619BE50E4C5A99D03EFC</string>
-				<string>03809F0D23C14E99A7823B1B</string>
-				<string>E9AE25E8A5F1404D89F89FFD</string>
-				<string>0E8F8CD56EAF45D68C7C4FDB</string>
-				<string>2E07C280812943738DD560A5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods-Tests</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9184A8CB131E40028174AE77</key>
+		<key>19E8589CF529497D9A2C7805</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -473,7 +124,61 @@
 			<key>sourceTree</key>
 			<string>SOURCE_ROOT</string>
 		</dict>
-		<key>9206E3C432E54CDBBD6DE9B1</key>
+		<key>1ABE05710A624FD2A3350A6F</key>
+		<dict>
+			<key>attributes</key>
+			<dict>
+				<key>LastUpgradeCheck</key>
+				<string>0450</string>
+			</dict>
+			<key>buildConfigurationList</key>
+			<string>0E1B091563C347B9A54BED13</string>
+			<key>compatibilityVersion</key>
+			<string>Xcode 3.2</string>
+			<key>developmentRegion</key>
+			<string>English</string>
+			<key>hasScannedForEncodings</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXProject</string>
+			<key>knownRegions</key>
+			<array>
+				<string>en</string>
+			</array>
+			<key>mainGroup</key>
+			<string>F7BBB43413974E4A97CAD2F3</string>
+			<key>productRefGroup</key>
+			<string>AD87556AAC824EA1A3A9B8F0</string>
+			<key>projectReferences</key>
+			<array/>
+			<key>targets</key>
+			<array>
+				<string>7EAE9B66E28B49B584348FCD</string>
+			</array>
+		</dict>
+		<key>1CC48092EF59491EB9B0E5EC</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>12B494F757A34B6CBBC79DDF</string>
+			</array>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>1E8C8E821E0040789854666D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F178565BFE604D2CAF7887D6</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<key>2004487444B94E4F84197650</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -482,16 +187,31 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>SPTSenTestInvocation.m</string>
+			<string>SenTestCase+Specta.m</string>
 			<key>path</key>
-			<string>Specta/src/SPTSenTestInvocation.m</string>
+			<string>Specta/src/SenTestCase+Specta.m</string>
 			<key>sourceTree</key>
 			<string>SOURCE_ROOT</string>
 		</dict>
-		<key>938A8337DE1E4014B5C862E0</key>
+		<key>21655365A8144DA39F26EB0B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>SPTSenTestInvocation.h</string>
+			<key>path</key>
+			<string>Specta/src/SPTSenTestInvocation.h</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>24342DA141BC423F80478121</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>9B4BA7E348D14464B0DE94BB</string>
+			<string>35B42FA2B8D44A0F93E9AB3F</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ALWAYS_SEARCH_USER_PATHS</key>
@@ -546,43 +266,52 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>9B4BA7E348D14464B0DE94BB</key>
+		<key>280A5115F279403F8411169C</key>
+		<dict>
+			<key>buildSettings</key>
+			<dict>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>6.1</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
+		<key>28A6532C86DB4666A0ECAB57</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
+			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>Pods-Tests.xcconfig</string>
+			<string>SpectaSupport.h</string>
 			<key>path</key>
-			<string>Pods-Tests.xcconfig</string>
+			<string>Specta/src/SpectaSupport.h</string>
 			<key>sourceTree</key>
 			<string>SOURCE_ROOT</string>
 		</dict>
-		<key>A140684D960145CC8FB367A9</key>
+		<key>2B117A3FDBEA4356B3D68D74</key>
 		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>8158631344BE4271BB80C973</string>
-				<string>0C77C5B2FF4A4CA58BCAD8F9</string>
-				<string>55690AF0D71F48B6B47621EA</string>
-				<string>793661DC08B84EFB90ABB53C</string>
-				<string>D3E06868C62E4948AB3D41AD</string>
-				<string>B5DACBE1964843EB84910EDF</string>
-				<string>7031B6B4C93F48DB9679190F</string>
-				<string>AC24F44600704887BFF4118B</string>
-				<string>AF8F872F038A4CD6B6A0FFBC</string>
-			</array>
+			<key>fileRef</key>
+			<string>5CD1B0816B2A4052BB4412E4</string>
 			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
 		</dict>
-		<key>A4CF1A8CFACF4931ABFB1696</key>
+		<key>2F32AD3EFE9541E1AA53FED8</key>
+		<dict>
+			<key>fileRef</key>
+			<string>DC68330264B1413384567BD4</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<key>34C45369370D4FAD85F55151</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -597,53 +326,156 @@
 			<key>sourceTree</key>
 			<string>SOURCE_ROOT</string>
 		</dict>
-		<key>A5400CBBDC624A519DC7651B</key>
+		<key>35B42FA2B8D44A0F93E9AB3F</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
+			<string>text.xcconfig</string>
 			<key>name</key>
-			<string>Pods-Tests-environment.h</string>
+			<string>Pods-Tests.xcconfig</string>
 			<key>path</key>
-			<string>Pods-Tests-environment.h</string>
+			<string>Pods-Tests.xcconfig</string>
 			<key>sourceTree</key>
 			<string>SOURCE_ROOT</string>
 		</dict>
-		<key>A7E807643F444219AD715091</key>
+		<key>3B61ABB774E447CCB52B8CBD</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>Specta.m</string>
+			<key>path</key>
+			<string>Specta/src/Specta.m</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>3CB011706DB94600AAAE9CE6</key>
 		<dict>
 			<key>fileRef</key>
-			<string>AD9C75515FBD48329B63D0E5</string>
+			<string>A1109C65FF9941BDA5967119</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
 			<dict/>
 		</dict>
-		<key>A8007BE50F584A8EA3D296FB</key>
+		<key>3DBF3EEF859D47D4BDD204DC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>SenTestRun+Specta.m</string>
+			<key>path</key>
+			<string>Specta/src/SenTestRun+Specta.m</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>3E235CA317A54EAB919ACA97</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>0ED48B1B36B34DBFA9B95D77</string>
+				<string>DFC83B9CA3A54811A473EA19</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Frameworks</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>41443A302AFE46FFA9D286D1</key>
+		<dict>
+			<key>fileRef</key>
+			<string>770D36216727405989AD20CD</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<key>459B8F4806884CABBDF9B3B8</key>
+		<dict>
+			<key>fileRef</key>
+			<string>BFAB75B46D234D78A4C27199</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<key>483C9C2F8E3944C6A50A2D6A</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A42DC9FF79A0419CA56EF330</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<key>4D052E796BB94957B75002A1</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>C3E496FBBFD045908B49B82C</string>
-				<string>B307269CE31348CFBDE2F337</string>
-				<string>64CE3B0F10BA452892EF8271</string>
-				<string>4ABC0FC4DAE2488D856F3D8E</string>
-				<string>33CDA52794D34A519D80E173</string>
-				<string>F44A99D5185C4674A00EA948</string>
-				<string>B1533833444344268048D3F3</string>
-				<string>A7E807643F444219AD715091</string>
-				<string>064D68383A7E4ACBB9011F57</string>
-				<string>DB45D1AF603A4D74A4BEEAB9</string>
+				<string>82E98367945447738202FF3D</string>
+				<string>41443A302AFE46FFA9D286D1</string>
+				<string>E5F1629F55744AB781B3404E</string>
+				<string>E8A77AF4326341A4ACECACB1</string>
+				<string>75EFB418905E4DA58792A411</string>
+				<string>3CB011706DB94600AAAE9CE6</string>
+				<string>9EB1012B563940D591AA5CA9</string>
+				<string>980871F8DBEB4DA1B139F706</string>
+				<string>B97BEDC6DE7B455DAE783E81</string>
+				<string>2F32AD3EFE9541E1AA53FED8</string>
+				<string>5FB1F96C4E704489B22208B5</string>
+				<string>589069BDA76B4645B99094F9</string>
+				<string>BB5EE781C39E4AE79ED29DEF</string>
+				<string>C87AC0EEA1DB43DC87457C8D</string>
 			</array>
 			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
+			<string>PBXSourcesBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>A8B9E4C2A8E4425DBCF1ABCC</key>
+		<key>53F60C935A2446A6A6964940</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>35B42FA2B8D44A0F93E9AB3F</string>
+				<string>95E2534C817247AAB444B94C</string>
+				<string>17CA387988E74761B1A7935E</string>
+				<string>81C77253445046E7ADAC761B</string>
+				<string>C92E1C041E8C4107861E87EE</string>
+				<string>5F7C82B376D342D4809B7D38</string>
+				<string>0DE37472A1194665A514A87D</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pods-Tests</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>589069BDA76B4645B99094F9</key>
+		<dict>
+			<key>fileRef</key>
+			<string>86055847775F4F45A40E7B4B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<key>5CD1B0816B2A4052BB4412E4</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -652,22 +484,13 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>SpectaTypes.h</string>
+			<string>SpectaUtility.h</string>
 			<key>path</key>
-			<string>Specta/src/SpectaTypes.h</string>
+			<string>Specta/src/SpectaUtility.h</string>
 			<key>sourceTree</key>
 			<string>SOURCE_ROOT</string>
 		</dict>
-		<key>AC24F44600704887BFF4118B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6F7A14D6EC4E41EAA8F4874C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict/>
-		</dict>
-		<key>AD9C75515FBD48329B63D0E5</key>
+		<key>5D382EACC55E4254860E30E6</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -676,49 +499,73 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>SPTSenTestInvocation.h</string>
+			<string>SPTDefaultReporter.h</string>
 			<key>path</key>
-			<string>Specta/src/SPTSenTestInvocation.h</string>
+			<string>Specta/src/SPTDefaultReporter.h</string>
 			<key>sourceTree</key>
 			<string>SOURCE_ROOT</string>
 		</dict>
-		<key>AF8F872F038A4CD6B6A0FFBC</key>
+		<key>5F7C82B376D342D4809B7D38</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>Pods-Tests-acknowledgements.markdown</string>
+			<key>path</key>
+			<string>Pods-Tests-acknowledgements.markdown</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>5FB1F96C4E704489B22208B5</key>
 		<dict>
 			<key>fileRef</key>
-			<string>2E07C280812943738DD560A5</string>
+			<string>DF7174592AB64F00AB3F3608</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
 			<dict/>
 		</dict>
-		<key>B1533833444344268048D3F3</key>
+		<key>6083B5D2FD2E437CB5E3E99F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>Podfile</string>
+			<key>path</key>
+			<string>../Podfile</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+			<key>xcLanguageSpecificationIdentifier</key>
+			<string>xcode.lang.ruby</string>
+		</dict>
+		<key>655DEA07F0DB43B5816D0DE4</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>24342DA141BC423F80478121</string>
+				<string>FC906660B93043E5809A2E78</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>69142007C88F474E97A2A6C3</key>
 		<dict>
 			<key>fileRef</key>
-			<string>9184A8CB131E40028174AE77</string>
+			<string>F96CE25AFBD748EF90228074</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
 			<dict/>
 		</dict>
-		<key>B307269CE31348CFBDE2F337</key>
-		<dict>
-			<key>fileRef</key>
-			<string>33205BEC2F444158B914429B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict/>
-		</dict>
-		<key>B5DACBE1964843EB84910EDF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9206E3C432E54CDBBD6DE9B1</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict/>
-		</dict>
-		<key>B60D99F72AE5429FA3FED903</key>
+		<key>70586E6C60FE407EBFF4AA08</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -733,15 +580,39 @@
 			<key>sourceTree</key>
 			<string>SOURCE_ROOT</string>
 		</dict>
-		<key>BB75D3C4CC524A6AA2150E6A</key>
+		<key>75EFB418905E4DA58792A411</key>
+		<dict>
+			<key>fileRef</key>
+			<string>34C45369370D4FAD85F55151</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<key>770D36216727405989AD20CD</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>SenTestLog+Specta.m</string>
+			<key>path</key>
+			<string>Specta/src/SenTestLog+Specta.m</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>7EAE9B66E28B49B584348FCD</key>
 		<dict>
 			<key>buildConfigurationList</key>
-			<string>0E2599E6037C4CB7A42F41F5</string>
+			<string>655DEA07F0DB43B5816D0DE4</string>
 			<key>buildPhases</key>
 			<array>
-				<string>A140684D960145CC8FB367A9</string>
-				<string>458AF8586D3A413AA7C6B152</string>
-				<string>A8007BE50F584A8EA3D296FB</string>
+				<string>4D052E796BB94957B75002A1</string>
+				<string>1CC48092EF59491EB9B0E5EC</string>
+				<string>C4B526223AC64EF9A9242563</string>
 			</array>
 			<key>buildRules</key>
 			<array/>
@@ -754,24 +625,199 @@
 			<key>productName</key>
 			<string>Pods-Tests</string>
 			<key>productReference</key>
-			<string>EB77054DF24D4AE8876E2BA4</string>
+			<string>C4C925D16A26464C8FB80E14</string>
 			<key>productType</key>
 			<string>com.apple.product-type.library.static</string>
 		</dict>
-		<key>BFAD45E984EE4263AD3E62CB</key>
+		<key>8166D19F07C64BB5A06FD25C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>SPTReporter.h</string>
+			<key>path</key>
+			<string>Specta/src/SPTReporter.h</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>81C77253445046E7ADAC761B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>Pods-Tests-resources.sh</string>
+			<key>path</key>
+			<string>Pods-Tests-resources.sh</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>82E0241A78D34876AD3F6F92</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>SPTSpec.m</string>
+			<key>path</key>
+			<string>Specta/src/SPTSpec.m</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>82E98367945447738202FF3D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2004487444B94E4F84197650</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<key>86055847775F4F45A40E7B4B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>SPTSharedExampleGroups.m</string>
+			<key>path</key>
+			<string>Specta/src/SPTSharedExampleGroups.m</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>86E158EEAA8E4B7EAD871857</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>SPTExample.m</string>
+			<key>path</key>
+			<string>Specta/src/SPTExample.m</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>8FD0458B944843DEBF3DE308</key>
+		<dict>
+			<key>fileRef</key>
+			<string>5D382EACC55E4254860E30E6</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<key>90E33DCE65CA440FB0D8F46A</key>
+		<dict>
+			<key>fileRef</key>
+			<string>21655365A8144DA39F26EB0B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<key>95E2534C817247AAB444B94C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>Pods-Tests-environment.h</string>
+			<key>path</key>
+			<string>Pods-Tests-environment.h</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>980871F8DBEB4DA1B139F706</key>
+		<dict>
+			<key>fileRef</key>
+			<string>ED55C6A1FC444F3AAE848D11</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<key>9B176ABC8E72452E87EDCB78</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>EB77054DF24D4AE8876E2BA4</string>
+				<string>E769929BE14C47A4B5019053</string>
+				<string>2004487444B94E4F84197650</string>
+				<string>B814004E0033430BBD893BB1</string>
+				<string>770D36216727405989AD20CD</string>
+				<string>F96CE25AFBD748EF90228074</string>
+				<string>3DBF3EEF859D47D4BDD204DC</string>
+				<string>70586E6C60FE407EBFF4AA08</string>
+				<string>3B61ABB774E447CCB52B8CBD</string>
+				<string>28A6532C86DB4666A0ECAB57</string>
+				<string>A42DC9FF79A0419CA56EF330</string>
+				<string>5CD1B0816B2A4052BB4412E4</string>
+				<string>34C45369370D4FAD85F55151</string>
+				<string>5D382EACC55E4254860E30E6</string>
+				<string>A1109C65FF9941BDA5967119</string>
+				<string>DF37EC21BC7C4B9DB6FA9678</string>
+				<string>86E158EEAA8E4B7EAD871857</string>
+				<string>F178565BFE604D2CAF7887D6</string>
+				<string>ED55C6A1FC444F3AAE848D11</string>
+				<string>8166D19F07C64BB5A06FD25C</string>
+				<string>0A6FF932FEC946DD885D6DC4</string>
+				<string>19E8589CF529497D9A2C7805</string>
+				<string>DC68330264B1413384567BD4</string>
+				<string>21655365A8144DA39F26EB0B</string>
+				<string>DF7174592AB64F00AB3F3608</string>
+				<string>A324B30E185746A88BC6592E</string>
+				<string>86055847775F4F45A40E7B4B</string>
+				<string>BFAB75B46D234D78A4C27199</string>
+				<string>82E0241A78D34876AD3F6F92</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>Products</string>
+			<string>Specta</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>C16CACDF2F2445D29162AD84</key>
+		<key>9EB1012B563940D591AA5CA9</key>
+		<dict>
+			<key>fileRef</key>
+			<string>86E158EEAA8E4B7EAD871857</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<key>A1109C65FF9941BDA5967119</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>SPTDefaultReporter.m</string>
+			<key>path</key>
+			<string>Specta/src/SPTDefaultReporter.m</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>A324B30E185746A88BC6592E</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -786,7 +832,201 @@
 			<key>sourceTree</key>
 			<string>SOURCE_ROOT</string>
 		</dict>
-		<key>C34DAE5CE2EC4EB7ACECAA9B</key>
+		<key>A375EE24C2B94851B1358DBA</key>
+		<dict>
+			<key>buildSettings</key>
+			<dict>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>6.1</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Debug</string>
+		</dict>
+		<key>A42DC9FF79A0419CA56EF330</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>SpectaTypes.h</string>
+			<key>path</key>
+			<string>Specta/src/SpectaTypes.h</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>AD87556AAC824EA1A3A9B8F0</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>C4C925D16A26464C8FB80E14</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Products</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>AF65DE6D18324B4892A85D11</key>
+		<dict>
+			<key>fileRef</key>
+			<string>19E8589CF529497D9A2C7805</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<key>B4E954FE5733469E85B5CAF3</key>
+		<dict>
+			<key>fileRef</key>
+			<string>70586E6C60FE407EBFF4AA08</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<key>B814004E0033430BBD893BB1</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>SenTestLog+Specta.h</string>
+			<key>path</key>
+			<string>Specta/src/SenTestLog+Specta.h</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>B97BEDC6DE7B455DAE783E81</key>
+		<dict>
+			<key>fileRef</key>
+			<string>0A6FF932FEC946DD885D6DC4</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<key>BB5EE781C39E4AE79ED29DEF</key>
+		<dict>
+			<key>fileRef</key>
+			<string>82E0241A78D34876AD3F6F92</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<key>BFAB75B46D234D78A4C27199</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>SPTSpec.h</string>
+			<key>path</key>
+			<string>Specta/src/SPTSpec.h</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>C4B526223AC64EF9A9242563</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>EA1CE03BDC3747F68ECA4807</string>
+				<string>11B97A4BB8244B6CA7B31575</string>
+				<string>69142007C88F474E97A2A6C3</string>
+				<string>B4E954FE5733469E85B5CAF3</string>
+				<string>1603042A89C444698F3E6243</string>
+				<string>483C9C2F8E3944C6A50A2D6A</string>
+				<string>2B117A3FDBEA4356B3D68D74</string>
+				<string>8FD0458B944843DEBF3DE308</string>
+				<string>ECFB4D644EF44251873A8916</string>
+				<string>1E8C8E821E0040789854666D</string>
+				<string>F551CA6CE72C4FB29D65686E</string>
+				<string>AF65DE6D18324B4892A85D11</string>
+				<string>90E33DCE65CA440FB0D8F46A</string>
+				<string>D4C485141928454885BD25DF</string>
+				<string>459B8F4806884CABBDF9B3B8</string>
+			</array>
+			<key>isa</key>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>C4C925D16A26464C8FB80E14</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>libPods-Tests.a</string>
+			<key>path</key>
+			<string>libPods-Tests.a</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>C87AC0EEA1DB43DC87457C8D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>0DE37472A1194665A514A87D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<key>C92E1C041E8C4107861E87EE</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>Pods-Tests-acknowledgements.plist</string>
+			<key>path</key>
+			<string>Pods-Tests-acknowledgements.plist</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>D4C485141928454885BD25DF</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A324B30E185746A88BC6592E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<key>DC68330264B1413384567BD4</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>SPTSenTestCase.m</string>
+			<key>path</key>
+			<string>Specta/src/SPTSenTestCase.m</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>DF37EC21BC7C4B9DB6FA9678</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -801,49 +1041,186 @@
 			<key>sourceTree</key>
 			<string>SOURCE_ROOT</string>
 		</dict>
-		<key>C3E496FBBFD045908B49B82C</key>
+		<key>DF7174592AB64F00AB3F3608</key>
 		<dict>
-			<key>fileRef</key>
-			<string>B60D99F72AE5429FA3FED903</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict/>
-		</dict>
-		<key>CE2C237D0C994BBB8655C001</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>6.1</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>Release</string>
+			<string>SPTSenTestInvocation.m</string>
+			<key>path</key>
+			<string>Specta/src/SPTSenTestInvocation.m</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
 		</dict>
-		<key>D3E06868C62E4948AB3D41AD</key>
+		<key>DFC83B9CA3A54811A473EA19</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>SenTestingKit.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/SenTestingKit.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>E5F1629F55744AB781B3404E</key>
 		<dict>
 			<key>fileRef</key>
-			<string>138BCF72A49F41279DAD0963</string>
+			<string>3DBF3EEF859D47D4BDD204DC</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
 			<dict/>
 		</dict>
-		<key>DB45D1AF603A4D74A4BEEAB9</key>
+		<key>E60C5F5D697945F1ADE8CB91</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>9B176ABC8E72452E87EDCB78</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pods</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E769929BE14C47A4B5019053</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>SenTestCase+Specta.h</string>
+			<key>path</key>
+			<string>Specta/src/SenTestCase+Specta.h</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>E8A77AF4326341A4ACECACB1</key>
 		<dict>
 			<key>fileRef</key>
-			<string>F89E637938B442BFA38C1034</string>
+			<string>3B61ABB774E447CCB52B8CBD</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
 			<dict/>
 		</dict>
-		<key>DFB7C9906F0440A9A4FA04E8</key>
+		<key>E923CD740467486D89A30A2F</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>53F60C935A2446A6A6964940</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Targets Support Files</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>EA1CE03BDC3747F68ECA4807</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E769929BE14C47A4B5019053</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<key>ECFB4D644EF44251873A8916</key>
+		<dict>
+			<key>fileRef</key>
+			<string>DF37EC21BC7C4B9DB6FA9678</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<key>ED55C6A1FC444F3AAE848D11</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>SPTExampleGroup.m</string>
+			<key>path</key>
+			<string>Specta/src/SPTExampleGroup.m</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>F178565BFE604D2CAF7887D6</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>SPTExampleGroup.h</string>
+			<key>path</key>
+			<string>Specta/src/SPTExampleGroup.h</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>F551CA6CE72C4FB29D65686E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>8166D19F07C64BB5A06FD25C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<key>F7BBB43413974E4A97CAD2F3</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>3E235CA317A54EAB919ACA97</string>
+				<string>E60C5F5D697945F1ADE8CB91</string>
+				<string>AD87556AAC824EA1A3A9B8F0</string>
+				<string>E923CD740467486D89A30A2F</string>
+				<string>6083B5D2FD2E437CB5E3E99F</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F96CE25AFBD748EF90228074</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>SenTestRun+Specta.h</string>
+			<key>path</key>
+			<string>Specta/src/SenTestRun+Specta.h</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>FC906660B93043E5809A2E78</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>9B4BA7E348D14464B0DE94BB</string>
+			<string>35B42FA2B8D44A0F93E9AB3F</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ALWAYS_SEARCH_USER_PATHS</key>
@@ -897,125 +1274,8 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>DFF30D92360C41F9B420F216</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>SpectaUtility.h</string>
-			<key>path</key>
-			<string>Specta/src/SpectaUtility.h</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-		</dict>
-		<key>E9AE25E8A5F1404D89F89FFD</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>Pods-Tests-acknowledgements.plist</string>
-			<key>path</key>
-			<string>Pods-Tests-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-		</dict>
-		<key>EB77054DF24D4AE8876E2BA4</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>libPods-Tests.a</string>
-			<key>path</key>
-			<string>libPods-Tests.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>EF6152E6AD4D4DC9B7795380</key>
-		<dict>
-			<key>fileRef</key>
-			<string>FD331769139C46B8993549BE</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict/>
-		</dict>
-		<key>F44A99D5185C4674A00EA948</key>
-		<dict>
-			<key>fileRef</key>
-			<string>87132CB9177249F28F209149</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict/>
-		</dict>
-		<key>F89E637938B442BFA38C1034</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>SPTSpec.h</string>
-			<key>path</key>
-			<string>Specta/src/SPTSpec.h</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-		</dict>
-		<key>FB91C62468534F9DB554EF22</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>8DEC337C2B2749DABE32B5E8</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Targets Support Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FCB2619BE50E4C5A99D03EFC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>Pods-Tests-prefix.pch</string>
-			<key>path</key>
-			<string>Pods-Tests-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-		</dict>
-		<key>FD331769139C46B8993549BE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
 	</dict>
 	<key>rootObject</key>
-	<string>88EDE4A1895F435D9F8844B3</string>
+	<string>1ABE05710A624FD2A3350A6F</string>
 </dict>
 </plist>
